@@ -12,7 +12,8 @@ I design and build backend platforms and AI systems. Over 12 years I've worked i
 
 | | |
 | --- | --- |
-| **Backend & Platform** | Python · AWS · Serverless · Microservices · Cloud Native · Docker |
+| **Backend & Platform** | Python · Go · AWS · Serverless · Microservices · Cloud Native · Docker |
+| **Frontend** | TypeScript · Next.js · React · Node.js · Tailwind CSS · Astro |
 | **AI Engineering** | GenAI · Agentic AI · Retrieval-Augmented Generation (RAG) |
 | **Domains** | Education · Healthcare · IoT · Food Tech · Fleet Tech |
 
