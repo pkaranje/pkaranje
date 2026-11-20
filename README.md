@@ -6,7 +6,7 @@ Pune, India · [Website](https://pkaranje.github.io) · [LinkedIn](https://www.l
 
 ---
 
-I design and build backend platforms and AI systems. Over 12 years I've worked in Python, AWS, serverless and cloud-native architectures, most recently as a Software Engineer (Platform & Backend) at the Linux Foundation (2019–2026). Today I run Giilab, an AI engineering studio focused on practical AI for real business problems, specializing in GenAI and agentic systems. Giilab's primary work today is with Linux Foundation Education.
+I design and build backend platforms and AI systems. Over 12 years I've worked in Python, AWS, serverless and cloud-native architectures, most recently as a Software Engineer (Platform & Backend) at the [Linux Foundation](https://www.linuxfoundation.org/) (2019–2026). Today I run Giilab, an AI engineering studio focused on practical AI for real business problems, specializing in GenAI and agentic systems. Giilab's primary work today is with [Linux Foundation Education](https://training.linuxfoundation.org/).
 
 ## Expertise
 
@@ -18,7 +18,7 @@ I design and build backend platforms and AI systems. Over 12 years I've worked i
 
 ## Selected work
 
-- **[lfed-course-recommender](https://github.com/pkaranje/lfed-course-recommender)**: AI-powered course recommendation and Q&A system built on the Linux Foundation Training & Certification catalog. Python 3.12, Docker Compose, CI.
+- **[lfed-course-recommender](https://github.com/pkaranje/lfed-course-recommender)**: AI-powered course recommendation and Q&A system built on the [Linux Foundation Training & Certification](https://training.linuxfoundation.org/) catalog. Python 3.12, Docker Compose, CI.
 - **[ai-video-intelligence-platform](https://github.com/pkaranje/ai-video-intelligence-platform)**: Video summarization pipeline: upload an MP4, extract key frames with FFmpeg, analyze them with a vision model (OpenAI, Gemini or local Ollama), and get a written summary with a timestamped timeline. FastAPI, Dramatiq, Redis, PostgreSQL, Next.js, Docker Compose.
 - **[rag-from-scratch](https://github.com/pkaranje/rag-from-scratch)**: Hands-on RAG with LangChain: embeddings, chunking, PDF/DOCX extraction and OCR. Each lesson has an OpenAI and a local Ollama version.
 - **[pkaranje.github.io](https://github.com/pkaranje/pkaranje.github.io)**: Personal site, built with Astro.
