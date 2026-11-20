@@ -10,7 +10,7 @@ I design and build backend platforms and AI systems. Over 12 years I've worked i
 
 ## Expertise
 
-| | |
+| Area | Technologies |
 | --- | --- |
 | **Backend & Platform** | Python · Go · AWS · Serverless · Microservices · Cloud Native · Docker |
 | **Frontend** | TypeScript · Next.js · React · Node.js · Tailwind CSS · Astro |
