@@ -6,7 +6,7 @@ Pune, India · [Website](https://pkaranje.github.io) · [LinkedIn](https://www.l
 
 ---
 
-I design and build backend platforms and AI systems. Over 12 years I've worked in Python, AWS, serverless and cloud-native architectures, most recently as a Platform & Backend engineer at the Linux Foundation (2019–2026). Today I run Giilab, an AI engineering studio focused on practical AI for real business problems, with a focus on GenAI and agentic systems.
+I design and build backend platforms and AI systems. Over 12 years I've worked in Python, AWS, serverless and cloud-native architectures, most recently as a Software Engineer (Platform & Backend) at the Linux Foundation (2019–2026). Today I run Giilab, an AI engineering studio focused on practical AI for real business problems, specializing in GenAI and agentic systems. Giilab's primary work today is with Linux Foundation Education.
 
 ## Expertise
 
