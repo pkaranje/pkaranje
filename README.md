@@ -1,6 +1,6 @@
 # Pratik Karanje
 
-**Founder, [Giilab](https://giilab.in) · Solutions Architect & Senior Python Backend Engineer · Ex-Linux Foundation**
+**Founder @ [Giilab](https://giilab.in) · Solutions Architect & Senior Python Backend Engineer · Ex-[@linuxfoundation](https://github.com/linuxfoundation)**
 
 Pune, India · [Website](https://pkaranje.github.io) · [LinkedIn](https://www.linkedin.com/in/pratikkaranje/) · [Giilab](https://giilab.in)
 
