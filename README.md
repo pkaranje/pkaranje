@@ -52,16 +52,18 @@ I design and build backend platforms and AI systems. For 13+ years I've worked i
 **Principal Software Engineer, Mobisoft Infotech** · Nov 2019 – May 2021
 - Started on the Linux Foundation project, building a service and migrating a legacy service to a cloud-native architecture on the Serverless Framework.
 
-**Associate Team Lead, iauro Systems** · Mar – Nov 2019
+**Senior Software Engineer → Associate Team Lead, iauro Systems** · Dec 2015 – Nov 2019 (Associate Team Lead from Mar 2019)
 - Led 15+ developers on SaaS and IoT product backends, from sprint planning and delivery to code reviews and mentoring.
+- Built and maintained backend platforms for SaaS and IoT products across healthcare and fleet management.
 
 **Software Developer, LiveHealth** · Full-time · Jul – Nov 2015
 - Built backend services in Python and Django REST Framework for the mobile application of LiveHealth, a Lab Management System.
 - Worked on interfacing lab machines with automation tools to automate lab accessioning with industrial machines.
 - Helped the team with fundraising by building technology and preparing data reports.
 
-**Equations Work** · Oct 2013 – 2019
+**Software Engineer → Associate Technical Lead, Equations Work** · Oct 2013 – Jun 2015
 - Android, .NET and Python development for Food Tech, IoT, Fleet Tech and Healthcare products.
+- Led development of backend features for web and IoT products and mentored junior developers.
 
 ## Selected work
 
