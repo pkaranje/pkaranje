@@ -31,6 +31,7 @@ I design and build backend platforms and AI systems. For 13+ years I've worked i
 - Consult with the company owners on strategic decisions.
 - Advise on technology adoption and new trends.
 - Review the product and refine it based on the feedback loop.
+- Help the team with hiring and with running a software company.
 
 **Technology Consultant & AI Solution Architect, Equations Work** · Consultant · Jun – Sep 2026
 - Worked on the company's AI product as an independent consultant, acting as a forward deployed engineer on internal projects and for customers, including a manufacturing customer.
