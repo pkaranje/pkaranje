@@ -27,6 +27,10 @@ I design and build backend platforms and AI systems. For 13+ years I've worked i
 
 **Technical Advisor, Elansol** · Oct 2024 – Present
 - Technical advisor to the team, helping them build the company as needed.
+- Guide the team on development and help solve their technical problems.
+- Consult with the company owners on strategic decisions.
+- Advise on technology adoption and new trends.
+- Review the product and refine it based on the feedback loop.
 
 **Technology Consultant & AI Solution Architect, Equations Work** · Consultant · Jun – Sep 2026
 - Worked on the company's AI product as an independent consultant, acting as a forward deployed engineer on internal projects and for customers, including a manufacturing customer.
