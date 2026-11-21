@@ -8,7 +8,7 @@ Pune, India · [Portfolio](https://pkaranje.github.io) · [LinkedIn](https://www
 
 ---
 
-I design and build backend platforms and AI systems. For 13+ years I've worked in Python, AWS, serverless and cloud-native architectures, most recently as a Software Engineer (Platform & Backend) at the [Linux Foundation](https://www.linuxfoundation.org/) (2019–2026).
+I design and build backend platforms and AI systems. For 13+ years I've worked in Python, AWS, serverless and cloud-native architectures, most recently as a Software Engineer (Platform & Backend) at the [Linux Foundation](https://www.linuxfoundation.org/) (2023–2026), after working on Linux Foundation projects since 2019 through partner companies.
 
 ## Expertise
 
