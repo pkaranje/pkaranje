@@ -43,7 +43,7 @@ More on my [GitHub](https://github.com/pkaranje?tab=repositories).
 
 Immediately available for full-time Full-Stack AI Engineer and Forward Deployed Engineer (FDE) roles: on-site (WFO) or hybrid in Pune, or remote for teams worldwide (US, UK, EU, APAC), with occasional international travel for work.
 
-- **Hiring:** [pratikkaranje03@gmail.com](mailto:pratikkaranje03@gmail.com) · [LinkedIn](https://www.linkedin.com/in/pratikkaranje/)
+- **Hiring:** [LinkedIn](https://www.linkedin.com/in/pratikkaranje/)
 
 ## Ventures
 
