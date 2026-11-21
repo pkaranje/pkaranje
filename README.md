@@ -15,13 +15,13 @@ I design and build backend platforms and AI systems. For 13+ years I've worked i
 | Area | Technologies |
 | --- | --- |
 | **Backend & Platform** | Python · Go · AWS · Serverless · Microservices · Cloud Native · Docker |
-| **Frontend** | TypeScript · Next.js · React · Node.js · Tailwind CSS · Astro |
+| **Frontend** | TypeScript · Next.js · React · Node.js · Tailwind CSS |
 | **AI Engineering** | GenAI · Agentic AI · Retrieval-Augmented Generation (RAG) |
 | **Domains** | Education · Healthcare · IoT · Food Tech · Fleet Tech |
 
 ## Selected work
 
-- **[lfed-course-recommender](https://github.com/pkaranje/lfed-course-recommender)**: AI-powered course recommendation and Q&A system built on the [Linux Foundation Training & Certification](https://training.linuxfoundation.org/) catalog. Python 3.12, Docker Compose, CI.
+- **[lfed-course-recommender](https://github.com/pkaranje/lfed-course-recommender)**: AI-powered course recommendation and Q&A system built on the [Linux Foundation Training & Certification](https://training.linuxfoundation.org/) catalog. Python 3.12, Docker Compose, CI. Status: in development.
 - **[ai-video-intelligence-platform](https://github.com/pkaranje/ai-video-intelligence-platform)**: Video summarization pipeline: upload an MP4, extract key frames with FFmpeg, analyze them with a vision model (OpenAI, Gemini or local Ollama), and get a written summary with a timestamped timeline. FastAPI, Dramatiq, Redis, PostgreSQL, Next.js, Docker Compose.
 - **[rag-from-scratch](https://github.com/pkaranje/rag-from-scratch)**: Hands-on RAG with LangChain: embeddings, chunking, PDF/DOCX extraction and OCR. Each lesson has an OpenAI and a local Ollama version.
 
