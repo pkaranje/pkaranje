@@ -50,6 +50,11 @@ I design and build backend platforms and AI systems. For 13+ years I've worked i
 **Associate Team Lead, iauro Systems** · Mar – Nov 2019
 - Led 15+ developers on SaaS and IoT product backends, from sprint planning and delivery to code reviews and mentoring.
 
+**Software Developer, LiveHealth** · Full-time · Jul – Nov 2015
+- Built backend services in Python and Django REST Framework for the mobile application of LiveHealth, a Lab Management System.
+- Worked on interfacing lab machines with automation tools to automate lab accessioning with industrial machines.
+- Helped the team with fundraising by building technology and preparing data reports.
+
 **Equations Work** · Oct 2013 – 2019
 - Android, .NET and Python development for Food Tech, IoT, Fleet Tech and Healthcare products.
 
