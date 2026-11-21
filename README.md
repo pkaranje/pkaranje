@@ -45,6 +45,9 @@ Immediately available for full-time Full-Stack AI Engineer and Forward Deployed 
 
 - **Hiring:** [pratikkaranje03@gmail.com](mailto:pratikkaranje03@gmail.com) · [LinkedIn](https://www.linkedin.com/in/pratikkaranje/)
 
+<!--
+Ventures section is hidden for now. Remove this comment wrapper to show it again.
+
 ## Ventures
 
 Alongside my job search, I run a few small ventures on the side.
@@ -52,3 +55,5 @@ Alongside my job search, I run a few small ventures on the side.
 - **[Giilab](https://github.com/giilab)**: AI engineering studio focused on practical AI solutions for real business problems, specializing in GenAI and agentic systems.
 - **[HappyMindsHouse](https://happymindshouse.in)**: eco-friendly, mindful and student-friendly stationery and printed products.
 - **[Sulochana - One with Beautiful Eyes](https://github.com/sulochana-oneyes)**: photography studio.
+
+-->
