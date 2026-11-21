@@ -19,6 +19,35 @@ I design and build backend platforms and AI systems. For 13+ years I've worked i
 | **AI Engineering** | GenAI · Agentic AI · Retrieval-Augmented Generation (RAG) |
 | **Domains** | Education · Healthcare · IoT · Food Tech · Fleet Tech |
 
+## Experience
+
+**Technical Advisor, Abhimanyu InfoSec** · Freelance · Sep 2026 – Present
+- Advise the team on technology stack choices, technical direction and priorities, and validate product ideas.
+- Guide the team on AI adoption, mentor them, and keep progress on track against the agreed direction.
+
+**Technology Consultant & AI Solution Architect, Equations Work** · Freelance · Jun – Sep 2026
+- Worked on the company's AI product as an independent consultant, acting as a forward deployed engineer on internal projects and for customers, including a manufacturing customer.
+- Built rapid prototypes and proof-of-concept demos, gathered feedback on them and implemented it in the product.
+- Defined architecture for backend, frontend, observability and infrastructure; reviewed architecture; and contributed hands-on to agents, skills and vulnerability scanning.
+- Tech stack included Azure as the primary cloud, LiteLLM, RAG and LLMs. Mentored and led a team of 50+ members.
+
+**Software Engineer, Platform & Backend, The Linux Foundation** · Full-time · Mar 2023 – May 2026
+- Built backend services, cloud-native applications and data-platform tooling for Linux Foundation Education (formerly Training & Certification), including AWS serverless workloads.
+- Built an AI-assisted development workflow with Claude Code, and a legacy code analyzer as Claude Code skills; made the workflow reusable for other projects and proposed GenAI projects to automate repetitive business tasks.
+- Worked with stakeholders and business owners across teams, and gave open source Tip Talks at KubeCon + CloudNativeCon India.
+
+**Development Lead, Proxima Systems** · Jun 2021 – Feb 2023
+- Continued the Linux Foundation project work through Proxima Systems, including data-platform engineering.
+
+**Principal Software Engineer, Mobisoft Infotech** · Nov 2019 – May 2021
+- Started on the Linux Foundation project, building a service and migrating a legacy service to a cloud-native architecture on the Serverless Framework.
+
+**Associate Team Lead, iauro Systems** · Mar – Nov 2019
+- Led 15+ developers on SaaS and IoT product backends, from sprint planning and delivery to code reviews and mentoring.
+
+**Equations Work** · Oct 2013 – 2019
+- Android, .NET and Python development for Food Tech, IoT, Fleet Tech and Healthcare products.
+
 ## Selected work
 
 - **[lfed-course-recommender](https://github.com/pkaranje/lfed-course-recommender)**: AI-powered course recommendation and Q&A system built on the [Linux Foundation Training & Certification](https://training.linuxfoundation.org/) catalog. Python 3.12, Docker Compose, CI. Status: in development.
