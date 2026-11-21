@@ -46,8 +46,10 @@ Open to full-time Full-Stack AI Engineer and Forward Deployed Engineer (FDE) rol
 
 - **Hiring:** [pratikkaranje03@gmail.com](mailto:pratikkaranje03@gmail.com) · [LinkedIn](https://www.linkedin.com/in/pratikkaranje/)
 
-## Giilab
+## Ventures
 
-[Giilab](https://giilab.in) is my AI engineering studio, which I run in the background alongside my job search. It focuses on practical AI solutions for real business problems, specializing in GenAI and agentic systems.
+Alongside my job search, I run a few small ventures on the side.
 
-**Giilab inquiries:** [hello@giilab.in](mailto:hello@giilab.in) · [giilab.in](https://giilab.in)
+- **[Giilab](https://giilab.in)**: AI engineering studio focused on practical AI solutions for real business problems, specializing in GenAI and agentic systems. Inquiries: [hello@giilab.in](mailto:hello@giilab.in) · [giilab.in](https://giilab.in)
+- **HappyMindsHouse**
+- **Sulochana Photography**
