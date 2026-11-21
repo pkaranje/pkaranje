@@ -1,6 +1,6 @@
 # Pratik Karanje
 
-**Solutions Architect & Senior Python Backend Engineer (13+ years) · Ex-[The Linux Foundation](https://www.linuxfoundation.org/)**
+**Tech Lead & Senior Python Backend Engineer with solution-architecture experience (13+ years) · Ex-[The Linux Foundation](https://www.linuxfoundation.org/)**
 
 Immediately available for full-time Full-Stack AI Engineer and Forward Deployed Engineer (FDE) roles: on-site (WFO) or hybrid in Pune, or remote for teams worldwide (US, UK, EU, APAC), with occasional international travel for work.
 
@@ -37,6 +37,7 @@ I design and build backend platforms and AI systems. For 13+ years I've worked i
 - Tech stack included Azure as the primary cloud, LiteLLM, RAG and LLMs. Mentored and led a team of 50+ members.
 
 **Software Engineer, Platform & Backend, The Linux Foundation** · Full-time · Mar 2023 – May 2026
+- Acted in a solution architect role for a Linux Foundation product, alongside hands-on engineering.
 - Built backend services, cloud-native applications and data-platform tooling for Linux Foundation Education (formerly Training & Certification), including AWS serverless workloads.
 - Built an AI-assisted development workflow with Claude Code, and a legacy code analyzer as Claude Code skills; made the workflow reusable for other projects and proposed GenAI projects to automate repetitive business tasks.
 - Worked with stakeholders and business owners across teams, and gave open source Tip Talks at KubeCon + CloudNativeCon India.
