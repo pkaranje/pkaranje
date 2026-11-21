@@ -2,6 +2,8 @@
 
 **Solutions Architect & Senior Python Backend Engineer (13+ years) · Ex-[The Linux Foundation](https://www.linuxfoundation.org/)**
 
+Open to full-time AI Engineering and Forward Deployed Engineer (FDE) roles.
+
 Pune, India · [Portfolio](https://pkaranje.github.io) · [LinkedIn](https://www.linkedin.com/in/pratikkaranje/)
 
 ---
@@ -40,7 +42,7 @@ More on my [GitHub](https://github.com/pkaranje?tab=repositories).
 
 ## Contact
 
-Open to full-time AI Engineering and Architecture roles.
+Open to full-time AI Engineering and Forward Deployed Engineer (FDE) roles.
 
 - **Hiring:** [pratikkaranje03@gmail.com](mailto:pratikkaranje03@gmail.com) · [LinkedIn](https://www.linkedin.com/in/pratikkaranje/)
 
