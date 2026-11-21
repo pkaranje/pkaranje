@@ -51,5 +51,5 @@ Open to full-time Full-Stack AI Engineer and Forward Deployed Engineer (FDE) rol
 Alongside my job search, I run a few small ventures on the side.
 
 - **[Giilab](https://giilab.in)**: AI engineering studio focused on practical AI solutions for real business problems, specializing in GenAI and agentic systems. Inquiries: [hello@giilab.in](mailto:hello@giilab.in) · [giilab.in](https://giilab.in)
-- **HappyMindsHouse**
+- **[HappyMindsHouse](https://happymindshouse.in)**: eco-friendly, mindful and student-friendly stationery and printed products.
 - **Sulochana Photography**
