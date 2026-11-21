@@ -21,6 +21,8 @@ I design and build backend platforms and AI systems. For 13+ years I've worked i
 
 ## Experience
 
+### Current
+
 **Technical Advisor, Abhimanyu InfoSec** · Consultant · Sep 2026 – Present
 - Advise the team on technology stack choices, technical direction and priorities, and validate product ideas.
 - Guide the team on AI adoption, mentor them, and keep progress on track against the agreed direction.
@@ -29,6 +31,8 @@ I design and build backend platforms and AI systems. For 13+ years I've worked i
 - Advise the team and company owners on technology, strategy and new trends.
 - Guide development, solve technical problems, and refine the product from user feedback.
 - Help with hiring and running a software division.
+
+### Past experience
 
 **Technology Consultant & AI Solution Architect, Equations Work** · Consultant · Jun – Sep 2026
 - Worked on the company's AI product as an independent consultant, acting as a forward deployed engineer on internal projects and for customers, including a manufacturing customer.
