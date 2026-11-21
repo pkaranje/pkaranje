@@ -28,7 +28,7 @@ Technical Advisor · Consultant · Sep 2026 – Present
 - Advise the team on technology stack choices, technical direction and priorities, and validate product ideas.
 - Guide the team on AI adoption, mentor them, and keep progress on track against the agreed direction.
 
-**Elansol**  
+**Elansol Tech**  
 Technical Advisor · Consultant · Oct 2024 – Present
 - Advise the team and company owners on technology, strategy and new trends.
 - Guide development, solve technical problems, and refine the product from user feedback.
