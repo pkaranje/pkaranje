@@ -23,54 +23,54 @@ I design and build backend platforms and AI systems. For 13+ years I've worked i
 
 ### Current
 
-**Technical Advisor**  
-Abhimanyu InfoSec · Consultant · Sep 2026 – Present
+**Abhimanyu InfoSec**  
+Technical Advisor · Consultant · Sep 2026 – Present
 - Advise the team on technology stack choices, technical direction and priorities, and validate product ideas.
 - Guide the team on AI adoption, mentor them, and keep progress on track against the agreed direction.
 
-**Technical Advisor**  
-Elansol · Consultant · Oct 2024 – Present
+**Elansol**  
+Technical Advisor · Consultant · Oct 2024 – Present
 - Advise the team and company owners on technology, strategy and new trends.
 - Guide development, solve technical problems, and refine the product from user feedback.
 - Help with hiring and running a software division.
 
 ### Past experience
 
-**Technology Consultant & AI Solution Architect**  
-Equations Work · Consultant · Jun – Sep 2026
+**Equations Work**  
+Technology Consultant & AI Solution Architect · Consultant · Jun – Sep 2026
 - Worked on the company's AI product as an independent consultant, acting as a forward deployed engineer on internal projects and for customers, including a manufacturing customer.
 - Built rapid prototypes and proof-of-concept demos, gathered feedback on them and implemented it in the product.
 - Defined architecture for backend, frontend, observability and infrastructure; reviewed architecture; and contributed hands-on to agents, skills and vulnerability scanning.
 - Tech stack included Azure as the primary cloud, LiteLLM, RAG and LLMs. Mentored and led a team of 50+ members.
 
-**Software Engineer, Platform & Backend**  
-The Linux Foundation · Full-time · Mar 2023 – May 2026
+**The Linux Foundation**  
+Software Engineer, Platform & Backend · Full-time · Mar 2023 – May 2026
 - Acted in a solution architect role for a Linux Foundation product, alongside hands-on engineering.
 - Built backend services, cloud-native applications and data-platform tooling for Linux Foundation Education (formerly Training & Certification), including AWS serverless workloads.
 - Built an AI-assisted development workflow with Claude Code, and a legacy code analyzer as Claude Code skills; made the workflow reusable for other projects and proposed GenAI projects to automate repetitive business tasks.
 - Worked with stakeholders and business owners across teams, and gave open source Tip Talks at KubeCon + CloudNativeCon India.
 
-**Development Lead**  
-Proxima Systems · Jun 2021 – Feb 2023
+**Proxima Systems**  
+Development Lead · Jun 2021 – Feb 2023
 - Continued the Linux Foundation project work through Proxima Systems, including data-platform engineering.
 
-**Principal Software Engineer**  
-Mobisoft Infotech · Nov 2019 – May 2021
+**Mobisoft Infotech**  
+Principal Software Engineer · Nov 2019 – May 2021
 - Started on the Linux Foundation project, building a service and migrating a legacy service to a cloud-native architecture on the Serverless Framework.
 
-**Senior Software Engineer → Associate Team Lead**  
-iauro Systems · Dec 2015 – Nov 2019 (Associate Team Lead from Mar 2019)
+**iauro Systems**  
+Senior Software Engineer → Associate Team Lead · Dec 2015 – Nov 2019 (Associate Team Lead from Mar 2019)
 - Led 15+ developers on SaaS and IoT product backends, from sprint planning and delivery to code reviews and mentoring.
 - Built and maintained backend platforms for SaaS and IoT products across healthcare and fleet management.
 
-**Software Developer**  
-LiveHealth · Full-time · Jul – Nov 2015
+**LiveHealth**  
+Software Developer · Full-time · Jul – Nov 2015
 - Built backend services in Python and Django REST Framework for the mobile application of LiveHealth, a Lab Management System.
 - Worked on interfacing lab machines with automation tools to automate lab accessioning with industrial machines.
 - Helped the team with fundraising by building technology and preparing data reports.
 
-**Software Engineer → Associate Technical Lead**  
-Equations Work · Oct 2013 – Jun 2015
+**Equations Work**  
+Software Engineer → Associate Technical Lead · Oct 2013 – Jun 2015
 - Android, .NET and Python development for Food Tech, IoT, Fleet Tech and Healthcare products.
 - Led development of backend features for web and IoT products and mentored junior developers.
 
