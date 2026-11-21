@@ -25,7 +25,7 @@ I design and build backend platforms and AI systems. For 13+ years I've worked i
 - Advise the team on technology stack choices, technical direction and priorities, and validate product ideas.
 - Guide the team on AI adoption, mentor them, and keep progress on track against the agreed direction.
 
-**Technical Advisor, Elansol** · Oct 2024 – Present
+**Technical Advisor, Elansol** · Consultant · Oct 2024 – Present
 - Advise the team and company owners on technology, strategy and new trends.
 - Guide development, solve technical problems, and refine the product from user feedback.
 - Help with hiring and running a software division.
