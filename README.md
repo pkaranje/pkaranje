@@ -45,8 +45,12 @@ Immediately available for full-time Full-Stack AI Engineer and Forward Deployed 
 
 - **Hiring:** [pratikkaranje03@gmail.com](mailto:pratikkaranje03@gmail.com) · [LinkedIn](https://www.linkedin.com/in/pratikkaranje/)
 
+## Ventures
+
+Coming soon.
+
 <!--
-Ventures section is hidden for now. Remove this comment wrapper to show it again.
+Ventures details are hidden for now. To show them, remove this comment wrapper and the Coming soon line above.
 
 ## Ventures
 
