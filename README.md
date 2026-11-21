@@ -1,6 +1,6 @@
 # Pratik Karanje
 
-**Solutions Architect & Senior Python Backend Engineer (13+ years) · Ex-[The Linux Foundation](https://www.linuxfoundation.org/) · Founder, [Giilab](https://giilab.in)**
+**Solutions Architect & Senior Python Backend Engineer (13+ years) · Ex-[The Linux Foundation](https://www.linuxfoundation.org/)**
 
 Pune, India · [Portfolio](https://pkaranje.github.io) · [LinkedIn](https://www.linkedin.com/in/pratikkaranje/) · [Giilab](https://giilab.in)
 
@@ -44,3 +44,9 @@ Open to full-time AI Engineering and Architecture roles.
 
 - **Hiring:** [pratikkaranje03@gmail.com](mailto:pratikkaranje03@gmail.com) · [LinkedIn](https://www.linkedin.com/in/pratikkaranje/)
 - **Giilab inquiries:** [hello@giilab.in](mailto:hello@giilab.in) · [giilab.in](https://giilab.in)
+
+## Giilab
+
+[Giilab](https://giilab.in) is my AI engineering studio, which I run in the background alongside my job search. It focuses on practical AI solutions for real business problems, specializing in GenAI and agentic systems.
+
+Project inquiries: [hello@giilab.in](mailto:hello@giilab.in) · [giilab.in](https://giilab.in)
