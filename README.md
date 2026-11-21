@@ -2,7 +2,7 @@
 
 **Solutions Architect & Senior Python Backend Engineer (13+ years) · Ex-[The Linux Foundation](https://www.linuxfoundation.org/)**
 
-Open to full-time Full-Stack AI Engineer and Forward Deployed Engineer (FDE) roles: remote, hybrid or Pune-based, with occasional travel.
+Open to full-time Full-Stack AI Engineer and Forward Deployed Engineer (FDE) roles: on-site (WFO) or hybrid in Pune, or remote for teams in the US, EU, UK and the Netherlands, with occasional international travel for work.
 
 Pune, India · [Portfolio](https://pkaranje.github.io) · [LinkedIn](https://www.linkedin.com/in/pratikkaranje/)
 
@@ -42,7 +42,7 @@ More on my [GitHub](https://github.com/pkaranje?tab=repositories).
 
 ## Contact
 
-Open to full-time Full-Stack AI Engineer and Forward Deployed Engineer (FDE) roles: remote, hybrid or Pune-based, with occasional travel.
+Open to full-time Full-Stack AI Engineer and Forward Deployed Engineer (FDE) roles: on-site (WFO) or hybrid in Pune, or remote for teams in the US, EU, UK and the Netherlands, with occasional international travel for work.
 
 - **Hiring:** [pratikkaranje03@gmail.com](mailto:pratikkaranje03@gmail.com) · [LinkedIn](https://www.linkedin.com/in/pratikkaranje/)
 
