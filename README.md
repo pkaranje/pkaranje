@@ -1,12 +1,12 @@
 # Pratik Karanje
 
-**Founder @ [Giilab](https://giilab.in) · Solutions Architect & Senior Python Backend Engineer · Ex-[The Linux Foundation](https://www.linuxfoundation.org/)**
+**Founder @ [Giilab](https://giilab.in) · Solutions Architect & Senior Python Backend Engineer (13+ years) · Ex-[The Linux Foundation](https://www.linuxfoundation.org/)**
 
 Pune, India · [Portfolio](https://pkaranje.github.io) · [LinkedIn](https://www.linkedin.com/in/pratikkaranje/) · [Giilab](https://giilab.in)
 
 ---
 
-I design and build backend platforms and AI systems. Over 12 years I've worked in Python, AWS, serverless and cloud-native architectures, most recently as a Software Engineer (Platform & Backend) at the [Linux Foundation](https://www.linuxfoundation.org/) (2019–2026). Today I run Giilab, an AI engineering studio focused on practical AI for real business problems, specializing in GenAI and agentic systems.
+I design and build backend platforms and AI systems. For 13+ years I've worked in Python, AWS, serverless and cloud-native architectures, most recently as a Software Engineer (Platform & Backend) at the [Linux Foundation](https://www.linuxfoundation.org/) (2019–2026). Today I run Giilab, an AI engineering studio focused on practical AI for real business problems, specializing in GenAI and agentic systems.
 
 ## Expertise
 
