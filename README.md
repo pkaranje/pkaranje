@@ -34,7 +34,7 @@ Between 2024 and 2025 I gave talks on open source contribution, including [Becom
 
 <img src="https://live.staticflickr.com/65535/54731442459_9c006df433_c.jpg" alt="Pratik Karanje at the Linux Foundation Education Learning Lounge, KubeCon + CloudNativeCon India 2025" width="480">
 
-<sub>At the Linux Foundation Education Learning Lounge, KubeCon + CloudNativeCon India 2025, Hyderabad. Photo: The Linux Foundation, from the <a href="https://events.linuxfoundation.org/archive/2025/kubecon-cloudnativecon-india/">official event gallery</a>.</sub>
+<sub>At the Linux Foundation Education Learning Lounge, KubeCon + CloudNativeCon India 2025, Hyderabad, where I gave open source Tip Talks. Photo: The Linux Foundation, from the <a href="https://events.linuxfoundation.org/archive/2025/kubecon-cloudnativecon-india/">official event gallery</a>.</sub>
 
 More on my [GitHub](https://github.com/pkaranje?tab=repositories).
 
