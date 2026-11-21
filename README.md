@@ -52,4 +52,4 @@ Alongside my job search, I run a few small ventures on the side.
 
 - **[Giilab](https://github.com/giilab)**: AI engineering studio focused on practical AI solutions for real business problems, specializing in GenAI and agentic systems.
 - **[HappyMindsHouse](https://happymindshouse.in)**: eco-friendly, mindful and student-friendly stationery and printed products.
-- **[Sulochana - One with Beautiful Eyes](https://github.com/sulochana-oneyes)**
+- **[Sulochana - One with Beautiful Eyes](https://github.com/sulochana-oneyes)**: photography, with video to follow if needed.
