@@ -21,7 +21,7 @@ I design and build backend platforms and AI systems. For 13+ years I've worked i
 
 ## Experience
 
-**Technical Advisor, Abhimanyu InfoSec** · Freelance · Sep 2026 – Present
+**Technical Advisor, Abhimanyu InfoSec** · Consultant · Sep 2026 – Present
 - Advise the team on technology stack choices, technical direction and priorities, and validate product ideas.
 - Guide the team on AI adoption, mentor them, and keep progress on track against the agreed direction.
 
