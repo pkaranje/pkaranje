@@ -30,7 +30,7 @@ I design and build backend platforms and AI systems. Over 12 years I've worked i
 - **[python_sbom](https://github.com/licquia/python_sbom)**: a pure-Python SBOM generator. I fixed two Windows environment bugs in it ([#1](https://github.com/licquia/python_sbom/pull/1), [#2](https://github.com/licquia/python_sbom/pull/2)), both merged.
 - **[serverless-wsgi](https://github.com/logandk/serverless-wsgi)**: the Serverless plugin for deploying WSGI apps (Flask, Django, Pyramid) to AWS Lambda. My [fix for a 404 on request-path handling](https://github.com/logandk/serverless-wsgi/pull/199) was merged upstream.
 
-I've also given a talk on this open source work.
+I've also given a talk on open source contribution: [Becoming an Open Source Project Contributor Is Easier Than You Think](https://kccncind2024.sched.com/event/1siA4/learning-lounge-becoming-an-open-source-project-contributor-is-easier-than-you-think), a 10-minute Tip Talk at KubeCon + CloudNativeCon India 2024 in Delhi.
 
 More on my [GitHub](https://github.com/pkaranje?tab=repositories).
 
